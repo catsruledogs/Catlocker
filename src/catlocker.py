@@ -1,6 +1,8 @@
 import os
 from cryptography.fernet import Fernet
 
+#credit goes to NetworkChuck
+
 #locating files
 
 files = []
