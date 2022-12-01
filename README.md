@@ -1,6 +1,6 @@
 # Catlocker Ransomeware
 
-⚠️⚠️!!Warning!!⚠️⚠️
+⚠️⚠️Warning⚠️⚠️
 
 This is real ransomeware.
 
