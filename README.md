@@ -2,7 +2,7 @@
 
 ⚠️⚠️!!Warning!!⚠️⚠️
 
-This ransomeware doesn't yet have a decryptor.
+This is real ransomeware.
 
 Use at your own risk.
 
